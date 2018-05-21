@@ -1,2 +1,2 @@
-# sj_starter_bot
-bot example
+# slack-starterbot
+A simple Python-powered starter Slack bot.
